@@ -18,7 +18,6 @@ a {
   margin-bottom: 40px;
 }
 
-
 img {
   float: left;
 }
@@ -40,8 +39,8 @@ img {
 }
 
 .icon-youjiantou {
-	width:auto;
-	display:inline-block;
+  width: auto;
+  display: inline-block;
   font-size: 16px;
 }
 
@@ -61,38 +60,41 @@ img {
 }
 
 .zhuceul > li {
-	position:relative;
+  position: relative;
   width: 374px;
   height: 57px;
   line-height: 57px;
   border: 1px solid #e4e4e4;
 }
-.sj{
-	display:none;
-	position:absolute;
-	left:380px;
-	top:25px;
-	width:0;
-	height:0;
-	border-top:3px solid transparent;
-	border-right:5px solid rgb(250,87,65);
-	border-bottom:3px solid transparent;
+
+.sj {
+  display: none;
+  position: absolute;
+  left: 380px;
+  top: 25px;
+  width: 0;
+  height: 0;
+  border-top: 3px solid transparent;
+  border-right: 5px solid #fa5741;
+  border-bottom: 3px solid transparent;
 }
-.zf{
-	display:none;
-	padding:0 10px 0 10px;
-	line-height:48px;
-	font-size:14px;
-	font-weight:900;
-	color:#fff;
-	left:385px;
-	top:5px;
-	position:absolute;
-	width:132px;
-	height:48px;
-	background:rgb(250,87,65);
-	border-radius:5px;
+
+.zf {
+  display: none;
+  padding: 0 10px 0 10px;
+  line-height: 48px;
+  font-size: 14px;
+  font-weight: 900;
+  color: #fff;
+  left: 385px;
+  top: 5px;
+  position: absolute;
+  width: 132px;
+  height: 48px;
+  background: #fa5741;
+  border-radius: 5px;
 }
+
 .zhuceul input {
   margin-left: 15px;
   border: none;
