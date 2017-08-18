@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,EAAE;EACD,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,GAAG;EACX,UAAU,EAAE,IAAI",
-"sources": ["reg.sass"],
-"names": [],
-"file": "1.css"
-}
